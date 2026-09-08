@@ -36,7 +36,7 @@ The repository contains the following core Java classes:
 ### Installation & Execution
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AKASH-22203/javaquizapplication.git](https://github.com/AKASH-22203/javaquizapplication.git)
+    git clone https://github.com/LGChaitanya/javaquizapplication.git
     ```
 2.  **Navigate to the directory:**
     ```bash
