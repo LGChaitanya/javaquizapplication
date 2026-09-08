@@ -55,5 +55,3 @@ The repository contains the following core Java classes:
 * **Language:** Java
 * **Framework:** Swing, AWT (Abstract Window Toolkit)
 
----
-Developed by [AKASH-22203](https://github.com/AKASH-22203)
